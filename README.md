@@ -59,8 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to everyone who has contributed to this project, and all those supporting sustainable farming efforts around the world.
 
 ## Contact
-For any questions or suggestions, feel free to reach out through the issues section of this repository or email us at [email@example.com](mailto:email@example.com).
+For any questions or suggestions, feel free to reach out through the issues section of this repository or email us at [shariffmohamedabdi@gmail.com](mailto:email@example.co).
 
----
 
 Thank you for visiting the **Shariff Goat Farming Project**!
